@@ -1,6 +1,6 @@
 # Everton Oliveira
 
-<img src="https://banner2.cleanpng.com/20190612/gzb/kisspng-apache-hadoop-hadoop-distributed-filesystem-big-da-5d01a58e1eb596.6566548215603890061258.jpg" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://www.shutterstock.com/image-vector/dices-icon-flat-illustration-isolated-600nw-2368774569.jpg" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
       Hello there! I'm a aspiring <strong>Data Analyst</strong> currently pursuing a degree in <strong>Data Science</strong>.
@@ -49,7 +49,7 @@
 </details>
 
 <div>
-  <table style="margin: 0 auto;" align="center">
+  <table style="margin: 0 auto;" align="justify">
     <tr>
       <td>
         <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-oliveira&layout=compact&theme=react&count_private=true"/>
