@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
- 🌱 - I'm Learning: <strong> Data Analyst in    L(Datacamp), Python OOP and Statistics & probability (UNIVESP) </strong>
+ 🌱 - I'm Learning: <strong> Data Analyst in SQL (Datacamp), Python OOP and Statistics & probability (UNIVESP) </strong>
 </p>
 
 <p align="left">
