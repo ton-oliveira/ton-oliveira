@@ -1,6 +1,8 @@
 ## ✨ Everton Oliveira ✨
 
-<img src="https://www.shutterstock.com/image-vector/dices-icon-flat-illustration-isolated-600nw-2368774569.jpg" min-width="300px" max-width="300px" width="300px" align="right">
+<!--
+img src="https://www.shutterstock.com/image-vector/dices-icon-flat-illustration-isolated-600nw-2368774569.jpg" min-width="300px" max-width="300px" width="300px" align="right">      
+-->
 
 <p align="left"> 
       Hello there! I'm a aspiring <strong>Data Analyst</strong> currently pursuing a degree in <strong>Data Science</strong>.
@@ -27,27 +29,29 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=0A66C2&color=0A66C2&logoColor=white&label=%20&link=https://www.linkedin.com/in/oliveira-soares-de-everton/"/>
 </a>
 
-<strong>My Skills:<strong>
-
-<details>
-    <summary>Languages</summary>
+## Languages & Tools 💻
+<div style="display: inline">
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-scala-red?style=for-the-badge&logo=scala&logoColor=white" alt="Scala-lang" /a>
-  <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="jupyter" /a>
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  alt="Python" /a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /a>
+ <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="jupyter" /a>
+ <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="38" height="38"/> </a>
+ <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="38" height="38"/> </a>      
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  alt="Python" /a>
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="37" height="37"/> </a>
   
-</details>
-<details>
-    <summary>Tools</summary>
-  <a href="https://www.mongodb.com//" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /a>
+
+       
+ </div><br/>
+  
+<!--  
   <a href="https://www.mongodb.com//" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache_Hadoop-222?&logo=apache-hadoop&logoColor=66CCFF" alt="Hadoop" /a>
   <a href=https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/spark%20api-scala-red" alt="Spark" /a>
   <a href="https://azure.microsoft.com/en-in/ target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?&style=plastic&logo=Microsoft%20Azure&logoColor=white" alt="Azure" /a>
   <a href="https://www.redis.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redis-D62124?style=flat-square&logo=Redis&logoColor=white" alt="Redis" /a>
+  -->
   
-</details>
 
 <div>
   <table style="margin: 0 auto;" align="justify">
@@ -67,6 +71,7 @@
 --<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ton-oliveira&show_icons=true&locale=en&layout=compact" alt="ton-oliveira" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ton-oliveira&show_icons=true&locale=en" alt="ton-oliveira" /></p>
+
 
 
 
