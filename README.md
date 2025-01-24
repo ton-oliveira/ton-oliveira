@@ -1,4 +1,4 @@
-# Everton Oliveira
+## ✨ Everton Oliveira ✨
 
 <img src="https://www.shutterstock.com/image-vector/dices-icon-flat-illustration-isolated-600nw-2368774569.jpg" min-width="300px" max-width="300px" width="300px" align="right">
 
@@ -32,9 +32,10 @@
 <details>
     <summary>Languages</summary>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-scala-red?style=for-the-badge&logo=scala&logoColor=white" alt="Scala-lang" /a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postgres-SQL-green" alt="Postgres-SQL" /a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=306998" alt="Python" /a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-pandas-05122A?style=flat&logo=pandas" alt="Pandas" /a>
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="jupyter" /a>
+  <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  alt="Python" /a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /a>
   
 </details>
 <details>
